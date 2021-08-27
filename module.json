@@ -2,7 +2,7 @@
   "name": "GoldStandard",
   "title": "The Gold Standard",
   "description": "Changes currency conversion: 5 silver to 1 gold, 100 gold to 1 platinum.  Also removes Electrum from default 5e, TidyUI, and DnDBeyond Sheets",
-  "version": "0.1",
+  "version": "0.2",
   "author": "Me",
   "systems": ["dnd5e"],
   "minimumSystemVersion": 0.95,
@@ -11,8 +11,8 @@
   "esmodules": [],
   "packs": [],
   "url": "https://github.com/Boldvoyager/GoldStandard",
-  "manifest": "",
-  "download": "",
+  "manifest": "https://github.com/Boldvoyager/GoldStandard/releases/download/0.2/module.json",
+  "download": "https://github.com/Boldvoyager/GoldStandard/releases/download/0.2/GoldStandard.zip",
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.6.6"
 
